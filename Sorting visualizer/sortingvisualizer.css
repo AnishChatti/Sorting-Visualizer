@@ -1,0 +1,16 @@
+.bars{
+	background-color: blue;
+	width:15px;
+	float: left;
+	margin-right: 4px;
+	}
+#container{
+	margin: auto 7%;
+	height: 570px;
+}
+button{
+	margin: auto 20px;
+}
+#buttons{
+	text-align: center;
+}
