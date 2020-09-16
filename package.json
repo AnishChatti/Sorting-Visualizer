@@ -1,0 +1,23 @@
+{
+  "name": "sorting-visualizer",
+  "version": "1.0.0",
+  "description": "Download sorting visualizer folder open sortingvisualizer.html and Enjoy sorting!!",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnishChatti/Sorting-Visualizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnishChatti/Sorting-Visualizer/issues"
+  },
+  "homepage": "https://github.com/AnishChatti/Sorting-Visualizer#readme"
+}
