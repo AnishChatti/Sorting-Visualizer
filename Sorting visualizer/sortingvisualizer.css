@@ -8,6 +8,9 @@
 	margin: auto 7%;
 	height: 570px;
 }
+body{
+background-color: black;
+}
 button{
 	margin: auto 20px;
 }
